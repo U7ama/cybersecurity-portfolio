@@ -1,0 +1,2 @@
+# cybersecurity-portfolio
+A cybersecurity portfolio documenting my learning journey through security audits, network analysis, Linux permissions, SQL filtering, vulnerability assessment, and incident response, alongside my software engineering background.

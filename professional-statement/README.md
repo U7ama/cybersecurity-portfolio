@@ -6,8 +6,8 @@ A short statement outlining my cybersecurity career goals, motivations, and rele
 
 ## What I Did
 
-_(Add your completed professional statement document or a summary of it here once the course task is finished.)_
+I wrote a professional statement covering my transition from software development toward cybersecurity, the self-directed learning I've done outside my degree, and how my leadership roles have shaped my communication and coordination skills. The full statement is in [professional-statement.md](./professional-statement.md).
 
 ## What I Learned
 
-_(Reflect briefly on what this exercise taught you about presenting yourself professionally.)_
+Writing this pushed me to articulate why cybersecurity specifically, rather than just listing that it's a career goal. It also made me think about how to frame my development background as a strength rather than something separate from security work.
